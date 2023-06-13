@@ -1,6 +1,6 @@
 # Criando meu primeiro jogo em Python
 
-<!-- Os jogos e as charadas têm uma conexão especial que desafia nossas mentes enquanto nos diverte. Eles se unem em uma dança de enigmas e estratégias, onde nossos neurônios são postos à prova em busca da solução.
+Os jogos e as charadas têm uma conexão especial que desafia nossas mentes enquanto nos diverte. Eles se unem em uma dança de enigmas e estratégias, onde nossos neurônios são postos à prova em busca da solução.
 
  Imagine um mundo virtual repleto de mistérios a serem desvendados, onde você é o protagonista e a charada é a chave para avançar. Ao adentrar nesse universo, você se vê diante de desafios complexos, onde a sagacidade e a perspicácia se tornam armas poderosas.
 
@@ -14,4 +14,4 @@ Além disso, os jogos com charadas são uma maneira divertida e engenhosa de apr
 
 Por fim, os games com charadas nos mostram que o cérebro é uma poderosa ferramenta, capaz de resolver os quebra-cabeças mais complexos. Eles nos desafiam a explorar nossos limites, a buscar soluções criativas e a desenvolver nossa capacidade de adaptação.
 
-Então, mergulhe nesse mundo de jogos com charadas, onde a diversão e a inteligência se encontram em uma combinação perfeita. Desvende cada mistério, desafie-se a superar seus próprios recordes e deixe-se envolver por essa experiência que estimula seu cérebro e expande seus horizontes. -->
+Então, mergulhe nesse mundo de jogos com charadas, onde a diversão e a inteligência se encontram em uma combinação perfeita. Desvende cada mistério, desafie-se a superar seus próprios recordes e deixe-se envolver por essa experiência que estimula seu cérebro e expande seus horizontes.
